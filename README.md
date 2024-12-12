@@ -1,2 +1,2 @@
-# c-_language
+# c++_language
 lets learn c++ language
